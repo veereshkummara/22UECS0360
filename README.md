@@ -67,48 +67,13 @@ This project implements a full stack URL Shortener microservice with a React fro
 ## Sample Output Screenshots
 
 ### URL Shortener Page
+<img width="1897" height="894" alt="image" src="https://github.com/user-attachments/assets/0ecf812e-5590-45d3-bc2a-86d227c8dc15" />
 
-![URL Shortener Page](./screenshots/url_shortener_page.png)
 
 
 ### URL Statistics Page
+<img width="487" height="804" alt="image" src="https://github.com/user-attachments/assets/9fbb43c5-23a8-46dd-a73d-d2a5bc7ba795" />
 
-![URL Statistics Page](./screenshots/url_statistics_page.png)
-
----
-
-## How to Push to GitHub
-
-1. Initialize git repository (if not already):
-   ```
-   git init
-   ```
-2. Add all files:
-   ```
-   git add .
-   ```
-3. Commit changes:
-   ```
-   git commit -m "Initial commit - URL Shortener microservice and frontend"
-   ```
-4. Create a new repository on GitHub (via website).
-
-5. Add remote origin (replace `<your-repo-url>` with your GitHub repo URL):
-   ```
-   git remote add origin <your-repo-url>
-   ```
-6. Push to GitHub:
-   ```
-   git push -u origin master
-   ```
-
----
-
-## Notes
-
-- Ensure backend is running before using frontend.
-- Use unique custom shortcodes to avoid conflicts.
-- Clear browser cache or use incognito if frontend shows stale content.
 
 ---
 
