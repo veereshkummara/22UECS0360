@@ -70,6 +70,7 @@ This project implements a full stack URL Shortener microservice with a React fro
 
 ![URL Shortener Page](./screenshots/url_shortener_page.png)
 
+
 ### URL Statistics Page
 
 ![URL Statistics Page](./screenshots/url_statistics_page.png)
